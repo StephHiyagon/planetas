@@ -1,4 +1,4 @@
-function calcular(){
+window.onload=function calcular(){
   var pesoT=document.getElementById('pesoTierra').value;
 
   var pesoV = pesoT*(8.9/9.8);
